@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**mrunix00/mrunix00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrunix00&theme=gruvbox" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunix00&theme=gruvbox&layout=compact&hide=cmake,html,css,Makefile" />
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Yasi](https://www.github.com/mrunix00/Yasi): A Scheme interpreter (WIP).
+- [Note-Taking app](https://github.com/GDSC-USTOMB/innovate-mobile-challenge): A notes-taking mobile app written in flutter, made as a part of GDSC's Innovate challenge.
+- [TraSH](https://www.github.com/mrunix00/trash): A damn simple unix shell.
+
+## Bad projects
+These are some of the projects that I wrote back when my programming skills were a lot worse than they are now.
+- [ircarchiver](https://www.github.com/mrunix00/ircarchiver): An IRC bot that logs IRC conversations into a .txt file (written in C).
+- [hibot](https://www.github.com/mrunix00/hibot): An IRC bot that replies to whoever says "Hi".
