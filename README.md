@@ -4,7 +4,7 @@
 
 ## Projects
 
-- [Yasi](https://www.github.com/mrunix00/Yasi): A Scheme interpreter (WIP).
+- [Yasi](https://www.github.com/mrunix00/Yasi): A Scheme interpreter.
 - [Note-Taking app](https://github.com/GDSC-USTOMB/innovate-mobile-challenge): A notes-taking mobile app written in flutter, made as a part of GDSC's Innovate challenge.
 - [TraSH](https://www.github.com/mrunix00/trash): A damn simple unix shell.
 
