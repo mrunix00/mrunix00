@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrunix00&theme=gruvbox" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunix00&theme=gruvbox&layout=compact&hide=cmake,html,css,Makefile" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrunix00&theme=gruvbox" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunix00&theme=gruvbox&layout=compact&hide=cmake,html,css,Makefile,swift,objective-c,kotlin" />
 
 ## Projects
 
