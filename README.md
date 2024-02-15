@@ -6,6 +6,7 @@ Ibrahim KAIKAA (aka Mr.UNIX), a 19 years old nerd who likes computers.
 
 ## Projects
 
+- [PocketLlama2](https://github.com/mrunix00/pocketllama2): A mobile app for Text Generation Inference with Llama2.
 - [Yasi](https://www.github.com/mrunix00/Yasi): My own implementation of the Lisp/Scheme Programming Language.
 - [Note-Taking app](https://github.com/GDSC-USTOMB/innovate-mobile-challenge): A notes-taking mobile app written in Flutter, made as a part of GDSC's Innovate challenge.
 - [TraSH](https://www.github.com/mrunix00/trash): A damn simple Unix shell.
