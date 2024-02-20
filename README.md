@@ -15,3 +15,5 @@ Ibrahim KAIKAA (aka Mr.UNIX), a 19 years old nerd who likes computers.
 These are some of the projects that I wrote back when my programming skills were a lot worse than they are now.
 - [ircarchiver](https://www.github.com/mrunix00/ircarchiver): An IRC bot that logs IRC conversations into a .txt file (written in C).
 - [hibot](https://www.github.com/mrunix00/hibot): An IRC bot that replies to whoever says "Hi" (also written in C).
+- [tictactoe-go](https://github.com/mrunix00/tictactoe-go): Tic-tac-toe in Golang
+- [tictactoe](https://github.com/mrunix00/tictactoe): Tic-tac-toe in C
