@@ -2,7 +2,7 @@
 
 Ibrahim KAIKAA (aka Mr.UNIX), a 19 years old nerd who likes computers.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrunix00&theme=gruvbox&layout=compact&card_width=450px" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunix00&theme=gruvbox&layout=compact&card_width=325&hide=html,css,Makefile,swift,objective-c,kotlin,cmake" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrunix00&theme=gruvbox&layout=compact&card_width=450px" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrunix00&theme=gruvbox&layout=compact&card_width=450px" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunix00&theme=gruvbox&layout=compact&card_width=325&hide=swift,objective-c,kotlin" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrunix00&theme=gruvbox&layout=compact&card_width=450px" />
 
 ## Projects
 
