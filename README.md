@@ -2,7 +2,7 @@
 
 Ibrahim KAIKAA (aka Mr.UNIX), a 20 years old nerd who likes computers.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrunix00&theme=gruvbox&layout=compact&card_width=450px" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunix00&theme=gruvbox&layout=compact&card_width=325" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrunix00&theme=gruvbox&layout=compact&card_width=450px" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrunix00&theme=gruvbox&layout=compact&card_width=450px" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunix00&theme=gruvbox&layout=compact&card_width=325" />
 
 ## Projects
 - [StargateProxy](https://github.com/mrunix00/StargateProxy): An HTTP Proxy with caching, written in Golang.
