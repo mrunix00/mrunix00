@@ -14,7 +14,4 @@ These are some of the projects that I wrote back when my programming skills were
 - [PocketLlama2](https://github.com/mrunix00/pocketllama2): A mobile app for Text Generation Inference with Llama2.
 - [Note-Taking app](https://github.com/GDSC-USTOMB/innovate-mobile-challenge): A notes-taking mobile app written in Flutter, made as a part of GDSC's Innovate challenge.
 - [ircarchiver](https://www.github.com/mrunix00/ircarchiver): A bot that logs IRC conversations into a .txt file (written in C).
-- [hibot](https://www.github.com/mrunix00/hibot): An IRC bot that replies to whoever says "Hi" (also written in C).
-- [tictactoe-go](https://github.com/mrunix00/tictactoe-go): Tic-tac-toe in Golang
-- [tictactoe](https://github.com/mrunix00/tictactoe): Tic-tac-toe in C
 - [TraSH](https://www.github.com/mrunix00/trash): A damn simple Unix shell.
