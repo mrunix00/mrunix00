@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Ibrahim KAIKAA (aka Mr.UNIX), a 21 years old nerd who likes computers.
+Ibrahim KAIKAA (aka Mr.UNIX), a 22 years old nerd who likes computers.
 
 ## Projects
 - [MONOLITH](https://codeberg.org/MONOLITH-Project/MONOLITH): A non-Unix operating system.
